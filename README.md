@@ -8,4 +8,5 @@ This is a simple program that demonstrates a connection for a Java JDBC with Mav
 <ol>
   <li>Maven</li>
   <li>Java</li>
+  <li>PostgreSql</li>
 </ol>
